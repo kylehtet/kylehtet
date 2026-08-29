@@ -67,7 +67,7 @@
 **💸 [Expense Tracker](https://github.com/kylehtet/Expense_Tracker)** — React · FastAPI · Plaid API · ChromaDB · AWS · Claude API
 Full-stack expense tracker syncing bank transactions via Plaid, with a rules engine for budgets and a RAG-based affordability check (28/36 debt-to-income rule). Redesigned transaction syncing into an async pipeline (Fargate/SQS/Lambda), cutting p95 latency from 9.2s to 0.55s, and cut LLM costs 75% by redesigning prompts around pre-computed rules-engine output.
 
-**🏠 EasyPort** — React · Node.js · Postgres · Firebase *(built for a property management company)*
+**🏠 [EasyPort](https://easily-track.vercel.app/)** — React · Node.js · Postgres · Firebase *(built for a property management company)*
 Built a five-source property-data chain (county assessor data, AVM, area medians) that merges partial records and tags each field's provenance, cutting paid API calls per lookup by 33%. Derived property values via the FHFA House Price Index with no vendor lock-in.
 
 **🍲 [BellyUp](https://github.com/kylehtet/Build-For-Good)** — 🥈 2nd Place, Built For Good (17 teams)
@@ -75,23 +75,14 @@ Food-donation dispatch platform using Getis-Ord Gi* spatial statistics and exact
 
 **🏃 [sit-up](https://github.com/kylehtet/sit-up)** — Computer vision posture game, built at SanD Hacks
 
-> `EasyPort` isn't public yet — add its repo link here once it is. `color-analyzer` and `easily_track` are also on my profile; happy to add descriptions once I know more about what they do.
+> `color-analyzer` and `easily_track` are also on my profile — descriptions coming soon.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/?username=kylehtet&show_icons=true&theme=default&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylehtet&layout=compact&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kylehtet&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kylehtet&theme=github-compact&hide_border=true" />
 </p>
 
 ---
