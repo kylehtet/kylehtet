@@ -43,6 +43,26 @@ Food-donation dispatch project that placed **2nd out of 17 teams** at Built For 
 
 Built a computer-vision posture coaching experience at SanD Hacks.
 
+### [Multi-Threaded HTTP Server](https://github.com/kylehtet/Multi-Threaded-HTTP-Server)
+**Systems programming · HTTP · Concurrency**
+
+Built a multi-threaded HTTP server and explored performance optimization, including connection handling and in-memory caching.
+
+### [Help n Seek](https://github.com/kylehtet/help-seek)
+**React · Computer vision**
+
+Developed a lost-and-found web application for the UC San Diego community, using image recognition to help match lost items with found-item listings.
+
+### [AI Personal Stylist & Color Consultant](https://github.com/kylehtet/color-analyzer)
+**Python · FastAPI · OpenCV · MediaPipe · Docker**
+
+Created an image-analysis application that uses facial landmarks and color-space analysis to recommend seasonal color palettes and wardrobe colors.
+
+### [Portfolio Website](https://github.com/kylehtet/portfolio)
+**Personal website**
+
+Source code for my personal developer portfolio.
+
 ---
 
 I'm interested in software engineering internships where I can contribute to production systems, learn from experienced engineers, and ship useful features.
